@@ -1,0 +1,60 @@
+.otsikko {
+    color: darkred;
+    font-family: 40px;
+    text-align: center;
+}
+body {
+    background-color:lightgray;
+}
+[target="_self"] {
+    color: rgb(247, 35, 35);
+    text-decoration: none;
+}
+
+.link {
+    text-decoration: none;
+    color: rgb(247, 35, 35);
+}
+h2, p {
+    text-align: center;
+}
+ul.mun {
+    text-align: left;
+    display: inline-block;
+  }
+div.jep {
+    text-align: center;
+}
+
+.ylä {
+    text-align: center;
+    font-size: 20px;
+}
+.esedu {
+    border: 1px solid black;
+    display: block;
+    width: 400px;
+    height: 370px;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color: white;
+}
+
+.joo {
+    margin-top: 5px;
+    padding-left: 3px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right: 3px;
+}
+p, li, label {
+    font-size: 17px;
+}
+
+.box {
+    text-align: left;
+}
+.info {
+    margin-left: 5px;
+    margin-right: 5px;
+}
